@@ -4,7 +4,7 @@ Hargai Refferal : https://t.me/Litecoin_click_bot?start=IT3x
 # Cara Install 
 $ pkg update && pkg upgrade<br>
 $ pkg install python git unzip<br>
-$ git clone https://github.com/kyuoko/ltcclickbot<br>
+$ git clone https://github.com/kyo1337/ltcclickbot<br>
 $ cd ltcclickbot<br>
 $ pip3 install -r requirements.txt<br>
 $ python3 main.py phone_number<br>
